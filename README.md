@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayan Javani</h1>
+<h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">backend developer with background in theoretical physics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> </p>
