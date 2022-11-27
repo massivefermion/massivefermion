@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> </p>
 <p align="left"> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a> </p>
-<p align="left"> <a href="https://exercism.org/profiles/massivefermion" target="blank"><img src="https://img.shields.io/twitter/visit/massivefermion?logo=exercism&style=plastic" alt="massivefermion" /></a> </p>
+<p align="left"> <a href="https://exercism.org/profiles/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=exercism&style=plastic" alt="massivefermion" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion" alt="massivefermion" /></a> </p>
 
