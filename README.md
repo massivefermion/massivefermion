@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Shayan Javani</h1>
+<h3 align="center">backend developer with an educational background in theoretical physics</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion" alt="massivefermion" /></a> </p>
@@ -17,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en" alt="massivefermion" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&" alt="massivefermion" /></p>
-
