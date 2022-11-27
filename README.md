@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayan!</h1>
 <h3 align="center">backend developer with background in theoretical physics</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a> <a href="https://exercism.org/profiles/massivefermion" target="_blank" rel="noreferrer"><img src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercism-with-logo-black-b427c06c6a068ba9f391734115e4d22dfa876d1d.svg" alt="exercism" width="32" height="32"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a> <a href="https://exercism.org/profiles/massivefermion" target="_blank" rel="noreferrer"><img src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercism-with-logo-black-b427c06c6a068ba9f391734115e4d22dfa876d1d.svg" alt="exercism" width="64" height="32"></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&row=1&margin-w=16" alt="massivefermion" /></a> </p>
 </p>
 
