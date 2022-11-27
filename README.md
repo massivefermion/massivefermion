@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shayan!</h1>
 <h3 align="center">backend developer with background in theoretical physics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> </p><p align="left"> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a> </p> <a href="https://exercism.org/profiles/massivefermion" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" width="64" height="64"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=flat" alt="massivefermion" /> </p><p align="center"> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a> </p> <a href="https://exercism.org/profiles/massivefermion" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" width="64" height="64"></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&row=1&margin-w=16" alt="massivefermion" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&row=1&margin-w=16" alt="massivefermion" /></a> </p>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="32" height="32"/> </a>
 <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="32" height="32"/> </a>
@@ -32,6 +31,6 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="32" height="32"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="32" height="32"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact" alt="massivefermion" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact" alt="massivefermion" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en" alt="massivefermion" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&" alt="massivefermion" /></p>
