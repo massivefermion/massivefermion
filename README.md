@@ -31,6 +31,6 @@
 </p>
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact" alt="massivefermion" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en" alt="massivefermion" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&" alt="massivefermion" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact&theme=prussian" alt="massivefermion" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en&theme=prussian" alt="massivefermion" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&theme=prussian" alt="massivefermion" /></p>
