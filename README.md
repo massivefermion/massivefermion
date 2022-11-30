@@ -31,13 +31,9 @@
 </p>
 <br />
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=5" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />
 <img src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />-->
-  [![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&theme=react&count_private=true&hide_border=true)]
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=massivefermion&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/massivefermion/github-readme-stats)
 </p>
