@@ -34,7 +34,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=massivefermion&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />
 <img src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&locale=en&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=massivefermion&theme=prussian&hide_border=true&border_radius=16" alt="massivefermion" />-->
-  ![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&theme=react&count_private=true&hide_border=true)
+  [![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&theme=react&count_private=true&hide_border=true)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=massivefermion&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
