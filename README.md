@@ -5,7 +5,9 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&row=1&margin-w=8" alt="massivefermion" /></a></p>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,elixir,rust,nestjs,mongodb,postgres,rabbitmq,redis,linux,bash,docker,git,graphql,aws&perline=16" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,elixir,rust,nestjs,mongodb,postgres,rabbitmq,redis,linux,bash,docker,git,graphql,aws&perline=16" />
+  </a>
 </p>
 <!-- <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a>
