@@ -45,4 +45,7 @@
 <a href="https://github-readme-stats.vercel.app">
   <img src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&theme=prussian&count_private=true&hide_border=true&border_radius=16" /> 
 </a>
+<a href="https://github-readme-stats.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=massivefermion" />
+</a>   
 </p> 
