@@ -2,7 +2,7 @@
 <h3 align="center">backend developer with background in theoretical physics</h3><br />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=plastic" alt="massivefermion" /> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a></p><br />
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=16&margin-h=16" alt="massivefermion" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=4&margin-h=4" alt="massivefermion" /></a></p>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
