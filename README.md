@@ -34,8 +34,9 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="32" height="32"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="32" height="32"/> </a>
 </p> -->
+<!--
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16&count_private=true&count_fork=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16&count_private=true&count_fork=true" />
 <br /> 
 <a href="https://github-readme-stats.vercel.app">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16&count_private=true" />
@@ -45,3 +46,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=massivefermion&show_icons=true&theme=prussian&count_private=true&hide_border=true&border_radius=16" /> 
 </a>
 </p> 
+-->
