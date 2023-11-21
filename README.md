@@ -9,6 +9,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,elixir,rust,go,zig,ocaml,regex,nestjs,jest,mongodb,postgres,rabbitmq,redis,linux,bash,docker,git,latex,aws&perline=32" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16" />
+  <br /> 
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16" />
+  </a>
+</p>
 <!-- <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="32" height="32"/> </a>
@@ -36,10 +43,10 @@
 </p> -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16&count_private=true&count_fork=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16" />
 <br /> 
 <a href="https://github-readme-stats.vercel.app">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16" />
 </a>
 <br />
 <a href="https://github-readme-stats.vercel.app">
