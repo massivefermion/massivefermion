@@ -2,7 +2,6 @@
 <h3 align="center">backend developer with background in theoretical physics</h3><br />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=massivefermion&label=Profile%20views&color=0e75b6&style=plastic" alt="massivefermion" /> <a href="https://twitter.com/massivefermion" target="blank"><img src="https://img.shields.io/twitter/follow/massivefermion?logo=twitter&style=plastic" alt="massivefermion" /></a></p><br />
-<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4&margin-h=4" alt="massivefermion" /></a></p> -->
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,6 +10,7 @@
 </p>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16" /> -->
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4&margin-h=4" alt="massivefermion" /></a></p>
   <br /> 
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16" />
