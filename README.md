@@ -20,10 +20,10 @@
 # Open source projects
 ## [Gleam](https://gleam.run)
 
-- [Radish](https://github.com/massivefermion/radish): redis client
+- [Radish](https://github.com/massivefermion/radish): Redis client
 - [Mungo](https://github.com/massivefermion/radish): MongoDB client
 - [Birl](https://github.com/massivefermion/birl): Date/Time handling
-- [Blah](https://github.com/massivefermion/blah): fake data genera  tor
+- [Blah](https://github.com/massivefermion/blah): fake data generator
 - [Puddle](https://github.com/massivefermion/puddle): resource pool manager
 - [Bison](https://github.com/massivefermion/bison): BSON encoder and decoder
 - [Ranger](https://github.com/massivefermion/ranger): create ranges over any type
