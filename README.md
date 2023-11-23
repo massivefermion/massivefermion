@@ -23,17 +23,17 @@
 - [Radish](https://github.com/massivefermion/radish): Redis client
 - [Mungo](https://github.com/massivefermion/radish): MongoDB client
 - [Birl](https://github.com/massivefermion/birl): Date/Time handling
-- [Blah](https://github.com/massivefermion/blah): fake data generator
-- [Puddle](https://github.com/massivefermion/puddle): resource pool manager
+- [Blah](https://github.com/massivefermion/blah): Fake data generator
+- [Puddle](https://github.com/massivefermion/puddle): Resource pool manager
 - [Bison](https://github.com/massivefermion/bison): BSON encoder and decoder
-- [Ranger](https://github.com/massivefermion/ranger): create ranges over any type
-- [Dove](https://github.com/massivefermion/dove ): currently experimental http client
-- [Phony](https://github.com/massivefermion/phony): international phone number validator
+- [Ranger](https://github.com/massivefermion/ranger): Create ranges over any type
+- [Dove](https://github.com/massivefermion/dove ): Currently experimental http client
+- [Phony](https://github.com/massivefermion/phony): International phone number validator
 
 ## [Elixir](https://elixir-lang.org)
 
 - [JSONC](https://github.com/massivefermion/jsonc ): [JSONC](https://komkom.github.io/jsonc-playground/) decoder
-- [Enux](https://github.com/massivefermion/phony): handling environment variables
+- [Enux](https://github.com/massivefermion/phony): Handling environment variables
 
 ## [Erlang](https://www.erlang.org)
 
