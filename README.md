@@ -16,6 +16,34 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=massivefermion&layout=compact&theme=prussian&hide_border=true&border_radius=16" />
   </a>
 </p>
+
+# Open source projects
+## [Gleam](https://gleam.run)
+
+- [Radish](https://github.com/massivefermion/radish): redis client
+- [Mungo](https://github.com/massivefermion/radish): MongoDB client
+- [Birl](https://github.com/massivefermion/birl): Date/Time handling
+- [Blah](https://github.com/massivefermion/blah): fake data genera  tor
+- [Puddle](https://github.com/massivefermion/puddle): resource pool manager
+- [Bison](https://github.com/massivefermion/bison): BSON encoder and decoder
+- [Ranger](https://github.com/massivefermion/ranger): create ranges over any type
+- [Dove](https://github.com/massivefermion/dove ): currently experimental http client
+- [Phony](https://github.com/massivefermion/phony): international phone number validator
+
+## [Elixir](https://elixir-lang.org)
+
+- [JSONC](https://github.com/massivefermion/jsonc ): [JSONC](https://komkom.github.io/jsonc-playground/) decoder
+- [Enux](https://github.com/massivefermion/phony): handling environment variables
+
+## [Erlang](https://www.erlang.org)
+
+- [Argon2](https://github.com/massivefermion/erl_argon2): [Argon2](https://en.wikipedia.org/wiki/Argon2) Rust [NIFs](https://www.erlang.org/doc/tutorial/nif.html)
+
+## [Rust](https://www.rust-lang.org)
+
+- [Lox](https://github.com/massivefermion/lox): Educational programming language and runtime
+- [Calculator-rs](https://github.com/massivefermion/calculator-rs): Just to learn parsing and Rust
+
 <!-- <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="32" height="32"/> </a>
