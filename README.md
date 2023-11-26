@@ -24,6 +24,7 @@
 - [Mungo](https://github.com/massivefermion/radish): MongoDB client
 - [Birl](https://github.com/massivefermion/birl): Date/Time handling
 - [Blah](https://github.com/massivefermion/blah): Fake data generator
+- [Juno](https://github.com/massivefermion/juno): Flexible JSON decoding
 - [Puddle](https://github.com/massivefermion/puddle): Resource pool manager
 - [Bison](https://github.com/massivefermion/bison): BSON encoder and decoder
 - [Ranger](https://github.com/massivefermion/ranger): Create ranges over any type
