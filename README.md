@@ -45,6 +45,9 @@
 - [Lox](https://github.com/massivefermion/lox): Educational programming language and runtime
 - [Calculator-rs](https://github.com/massivefermion/calculator-rs): Just to learn parsing and Rust
 
+## [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)/[TypeScript](https://www.typescriptlang.org/)
+- [@tinyhttp/swagger](https://github.com/tinyhttp/swagger): A [swagger](https://swagger.io/) plugin for the [tinyhttp](https://tinyhttp.v1rtl.site/) framework.
+
 <!-- <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="32" height="32"/> </a>
