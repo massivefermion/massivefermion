@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massivefermion&layout=compact&langs_count=6&theme=prussian&hide_border=true&border_radius=16" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massivefermion&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4&margin-h=4" alt="massivefermion" /></a>
   <br /> 
   <a href="https://github-readme-stats.vercel.app">
